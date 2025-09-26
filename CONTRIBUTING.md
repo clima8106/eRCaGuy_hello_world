@@ -8,3 +8,4 @@ Notes and usage details for eRCaGuy_hello_world.
 - clarify the setup steps
 - add a note about the defaults
 - fix a small wording issue
+- link the usage section
