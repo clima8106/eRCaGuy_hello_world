@@ -16,3 +16,4 @@ Notes and usage details for eRCaGuy_hello_world.
 - clarify the setup steps
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
