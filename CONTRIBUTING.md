@@ -51,3 +51,4 @@ Notes and usage details for eRCaGuy_hello_world.
 - add a note about the defaults
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
